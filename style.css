@@ -5,7 +5,7 @@ body {
 }
 
 .head {
-    transform: translate(1vh, -5vh);
+    transform: translate(1vh, -2.5vh);
 }
 
 .head .header {
