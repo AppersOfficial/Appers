@@ -21,9 +21,22 @@ body {
     transform: translate(0, -3vh);
 }
 
-.head .toolbar {
+.head .toolbar #input1 {
     border-radius: 40vh;
     border-style: solid;
     border-color: #fff;
     border-width: 2vh;
+    background-color: #2b2b2b;
+    width: 50vh;
+    height: 3vh;
+}
+
+.head .toolbar #button1 {
+    border-radius: 40vh;
+    border-style: solid;
+    border-color: #fff;
+    border-width: 2vh;
+    background-color: #2b2b2b;
+    width: 10vh;
+    height: 3vh;
 }
