@@ -4,13 +4,17 @@ body {
     background-color: #2b2b2b;
 }
 
-body .header {
+.head {
+    transform: translate(1vh, -5vh);
+}
+
+.head .header {
     font-size: 3.5vh;
     font-family: Poppins, sans-serif;
     color: #fff;
 }
 
-body .header2 {
+.head .header2 {
     font-size: 1.0vh;
     font-family: Poppins, sans-serif;
     color: #979797;
