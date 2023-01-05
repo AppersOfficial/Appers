@@ -21,6 +21,12 @@ body {
     transform: translate(0, -3vh);
 }
 
+.head .toolbar {
+    height: 3vh;
+    width: 100%;
+    transform: translate(0, 3vh);
+}
+
 .head .toolbar #input1 {
     border-radius: 40vh;
     border-style: solid;
