@@ -24,7 +24,7 @@ body {
 .head .toolbar {
     height: 3vh;
     width: 100%;
-    transform: translate(0, 3vh);
+    transform: translate(0, 2.5vh);
 }
 
 .head .toolbar #input1 {
