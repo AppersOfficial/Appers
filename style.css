@@ -20,3 +20,10 @@ body {
     color: #979797;
     transform: translate(0, -3vh);
 }
+
+.head .toolbar {
+    border-radius: 40vh;
+    border-style: solid;
+    border-color: #fff;
+    border-width: 2vh;
+}
