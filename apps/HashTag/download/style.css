@@ -2,13 +2,45 @@ body {
     background-color: #2b2b2b;
 }
 
-h3 {
-    width: 100px;
-    height: 100px;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: auto;
+.header {
+    color: #fff;
+    width: 20vh;
+    height: 3vh;
+    margin-bottom: 3vh;
+    margin-left: 1vh;
+    font-family: Verdana;
+    font-size: 1.8vh;
+}
+
+.h1 {
+    color: #fff;
+    width: 20vh;
+    height: 3vh;
+    margin-bottom: 1.5vh;
+    margin-left: 1vh;
+    font-family: Verdana;
+    font-size: 1.3vh;
+}
+
+.h2 {
+    color: #fff;
+    width: 20vh;
+    height: 3vh;
+    margin-bottom: 1vh;
+    margin-left: 1vh;
+    font-family: Verdana;
+    font-size: 1.3vh;
+}
+
+#install {
+    color: #fff;
+    background-color: #7f7f7f;
+    height: 2vh;
+    width: 20vh;
+    margin-left: 1vh;
+    font-family: Verdana;
+    font-size: 1.3vh;
+    border-radius: 5vh;
+    border-width: 1vh;
+    border-color: #fff;
 }
