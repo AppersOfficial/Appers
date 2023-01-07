@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 
 html {
-    background-color: #2b2b2b;
+    background-image: url(72 Sem Título_20230104172538.png);
 }
 
 .header {
@@ -43,7 +43,7 @@ html {
 .h2 {
     color: #979797;
     width: 100%;
-    margin-bottom: 0.5vh;
+    margin-bottom: 1vh;
     margin-left: 1vh;
     font-family: Poppins, sans-serif;
     font-size: 2vh;
