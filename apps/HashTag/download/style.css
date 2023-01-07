@@ -11,7 +11,7 @@ body {
     margin-bottom: 1vh;
     margin-left: 1vh;
     font-family: Poppins, sans-serif;
-    font-size: 2.8vh;
+    font-size: 5vh;
 }
 
 .h1 {
@@ -21,17 +21,17 @@ body {
     margin-bottom: 0.5vh;
     margin-left: 1vh;
     font-family: Poppins, sans-serif;
-    font-size: 2vh;
+    font-size: 3vh;
 }
 
 .h2 {
-    color: #fff;
+    color: #979797;
     width: 100%;
     height: 3vh;
     margin-bottom: 0.2vh;
     margin-left: 1vh;
     font-family: Poppins, sans-serif;
-    font-size: 1.4vh;
+    font-size: 2vh;
 }
 
 #install {
@@ -43,6 +43,6 @@ body {
     font-family: Poppins, sans-serif;
     font-size: 1.3vh;
     border-radius: 5vh;
-    border-width: 0.1vh;
+    border-width: 0.3vh;
     border-color: #fff;
 }
