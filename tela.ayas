@@ -1,0 +1,17 @@
+{
+    .Layout({
+        "id":"layout",
+        "height":"match",
+        "width":"match",
+        "orientation":"vertical"
+        
+        .Button({
+            "id":"button",
+            "height": 40,
+            "width": 250,
+            "corner_type":"rounded",
+            "corner_radius": 40,
+            "text":"Clique aqui"
+        })
+    })
+}
