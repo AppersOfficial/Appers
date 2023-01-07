@@ -32,7 +32,7 @@ html {
 }
 
 .h3_1 {
-    color: #979797;
+    color: #ccc;
     width: 100%;
     margin-bottom: 0.5vh;
     margin-left: 1vh;
@@ -41,7 +41,7 @@ html {
 }
 
 .h2 {
-    color: #979797;
+    color: #ccc;
     width: 100%;
     margin-bottom: 1vh;
     margin-left: 1vh;
@@ -51,7 +51,7 @@ html {
 
 #install {
     color: #fff;
-    background-color: #2b2b2b;
+    background-color: transparent;
     height: 4.5vh;
     width: 40vh;
     margin-left: 1vh;
