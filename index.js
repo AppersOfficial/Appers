@@ -1,6 +1,6 @@
 window.onload = function() {
     if (localStorage.hasOwnProperty("started")) {
-        window.location.assign("https://
+        window.location.assign("https://appersofficial.github.io/Appers/home?/");
     }
 
     var head = document.getElementById("wcm");
@@ -30,6 +30,7 @@ window.onload = function() {
     }
     
     sigin.addEventListener("click", function() {
-        window.location.assign("http://localhost:8158/sigin.html");
+        localStorage.setItem("started", "true");
+        window.location.assign("https://appersofficial.github.io/Appers/home?/");
     });
 }
