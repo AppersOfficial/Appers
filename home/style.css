@@ -6,6 +6,10 @@ body {
     height: auto;
 }
 
+.sigin .header #menu {
+    font-size: 5vh;
+}
+
 .sigin .header .input-with-icon {
     display: flex;
     flex-direction: row;
