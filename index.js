@@ -1,6 +1,6 @@
 window.onload = function() {
     if (localStorage.hasOwnProperty("started")) {
-        window.location.assign("https://appersofficial.github.io/Appers/home?/");
+        window.location.assign("https://appersofficial.github.io/Appers/home/");
     }
 
     var head = document.getElementById("wcm");
@@ -31,6 +31,6 @@ window.onload = function() {
     
     sigin.addEventListener("click", function() {
         localStorage.setItem("started", "true");
-        window.location.assign("https://appersofficial.github.io/Appers/home?/");
+        window.location.assign("https://appersofficial.github.io/Appers/home/");
     });
 }
