@@ -10,10 +10,6 @@ addEventListener("load", function() {
     
 });
 
-sigin.addEventListener("click", function() {
-    
-});
-
 // Adjust viewport values only if orientation has changed (not on every window resize)
 function windowSizeChanged() {
     if (((pageInPortraitMode === true) && (window.innerHeight < window.innerWidth)) || ((pageInPortraitMode === false) && (window.innerHeight > window.innerWidth))) {
