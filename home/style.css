@@ -7,6 +7,19 @@ body {
 }
 
 .sigin .header .input-with-icon .searchText {
+    font-family: Poppins, sans-serif;
+    color: #5f5f5f;
+    border-radius: 1.5vh;
+    background-color: #ffffff;
+    min-width: 30vh;
+    min-height: 5vh;
+    max-width: 30vh;
+    max-height: 5vh;
+    padding-left: 1vh;
+    margin-left: 2vh;
+    display: block;
+    border-style: none;
+    transform: translateY(-2vh);
     padding-left: 40px;
 }
 
