@@ -1,48 +1,59 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
 
 body {
-    background-color: #2b2b2b;
+    background-image: url('home.png');
+    background-size: cover;
+    position: relative;
+    max-width: 100%;
+    height: auto;
 }
 
-.head {
-    transform: translate(1vh, -2.5vh);
+.home .head #header {
+    font-family: Poppins, Sans-Serif;
+    font-size: 4vh;
+    color: white;
+    left: 2vh;
+    font-weight: bold;
+    transform: translateX(2vh);
 }
 
-.head .header {
-    font-size: 3.5vh;
+.home .head #wcm, #end {
+    font-family: Poppins, Sans-Serif;
+    font-size: 2.5vh;
+    color: #efefef;
+    transform: translateY(-8vh);
+    transform: translateX(2vh);
+}
+
+.home .petit #codes, #commu {
+    max-width: 50vh;
+    height: auto;
+}
+
+.home .petit #codes_call, #commu_call {
     font-family: Poppins, sans-serif;
-    color: #fff;
+    font-size: 2.5vh;
+    color: #C4C4DB;
+    transform: translateX(2vh);
 }
 
-.head .header2 {
-    font-size: 1.0vh;
+.home .head #wcm2 {
+    font-family: Poppins, Sans-Serif;
+    font-size: 2.5vh;
+    color: #C4C4DB;
+    margin-left: 2vh;
+    transform: translateY(-1vh);
+}
+
+.home #ok {
     font-family: Poppins, sans-serif;
-    color: #979797;
-    transform: translate(0, -3vh);
-}
-
-.head .toolbar {
-    height: 3vh;
-    width: 100%;
-    transform: translate(0, 2.5vh);
-}
-
-.head .toolbar #input1 {
-    border-radius: 40vh;
-    border-style: solid;
-    border-color: #fff;
-    border-width: 2vh;
-    background-color: #2b2b2b;
-    width: 50vh;
-    height: 3vh;
-}
-
-.head .toolbar #button1 {
-    border-radius: 40vh;
-    border-style: solid;
-    border-color: #fff;
-    border-width: 2vh;
-    background-color: #2b2b2b;
-    width: 10vh;
-    height: 3vh;
+    color: #0E0E76;
+    background-color: #D4D4FF;
+    width: 30vh;
+    height: 5vh;
+    font-weight: bold;
+    font-size: 1.5vh;
+    border-radius: 1.5vh;
+    margin: auto;
+    display: block;
 }
