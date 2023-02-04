@@ -1,4 +1,8 @@
 window.onload = function() {
+    if (localStorage.hasOwnProperty("started")) {
+        window.location.assign("https://
+    }
+
     var head = document.getElementById("wcm");
     var codes = document.getElementById("codes_call");
     var language = navigator.language;
