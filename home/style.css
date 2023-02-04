@@ -1,5 +1,9 @@
 body {
     background-image: url('bg.png');
+    background-size: cover;
+    position: relative;
+    max-width: 100%;
+    height: auto;
 }
 
 .sigin .header .input-with-icon {
