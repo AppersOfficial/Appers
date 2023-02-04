@@ -29,7 +29,6 @@ body {
     display: block;
     border-style: none;
     transform: translateY(-2vh);
-    padding-left: 40px;
 }
 
 .sigin .header .input-with-icon .icon {
