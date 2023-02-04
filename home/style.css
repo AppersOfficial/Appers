@@ -7,7 +7,8 @@ body {
 }
 
 .sigin .header .input-with-icon {
-    position: relative;
+    display: flex;
+    flex-direction: row;
 }
 
 .sigin .header .input-with-icon #searchText {
@@ -32,5 +33,5 @@ body {
     left: 10px;
     top: 50%;
     transform: translateY(-50%);
-    font-size: 20px;
+    font-size: 5vh;
 }
