@@ -2,15 +2,15 @@ body {
     background-color: #bbb;
 }
 
-.input-with-icon {
+.sigin .header .input-with-icon {
     position: relative;
 }
 
-.input-with-icon .searchText {
+.sigin .header .input-with-icon .searchText {
     padding-left: 40px;
 }
 
-.input-with-icon .icon {
+.sigin .header .input-with-icon .icon {
     position: absolute;
     left: 10px;
     top: 50%;
