@@ -1,3 +1,19 @@
 body {
     background-color: #bbb;
 }
+
+.input-with-icon {
+    position: relative;
+}
+
+.input-with-icon .searchText {
+    padding-left: 40px;
+}
+
+.input-with-icon .icon {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 20px;
+}
